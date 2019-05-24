@@ -1,7 +1,7 @@
 # Jamunaa Jayashree
 ## From Chennai,India
 **Engineer**
-loves *nature*,
+who loves *nature*,
 
 Favourite books
 - Alchemist
