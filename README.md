@@ -2,8 +2,7 @@
 ## From Chennai,India
 **Graduate Computer Science Student, University of Texas at Arlington** </br>
 **Software Engineer**
-<h1 align="center">Hi 👋 there</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamunaajayashrees&label=Profile%20views&color=0e75b6&style=flat" alt="JamunaaJayashreeS" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
