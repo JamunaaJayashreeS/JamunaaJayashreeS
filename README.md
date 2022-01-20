@@ -1,6 +1,7 @@
 # Jamunaa Jayashree
 ## From Chennai,India
-**Engineer**
+**Graduate Computer Science Student, University of Texas at Arlington**
+**Software Engineer**
 <h1 align="center">Hi 👋 there</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamunaajayashrees&label=Profile%20views&color=0e75b6&style=flat" alt="JamunaaJayashreeS" /> </p>
 
