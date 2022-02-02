@@ -1,29 +1,30 @@
 {
-    "name": "flare",
+    "name": "1850",
     "children": [
         {
-            "name": "analytics",
+            "name": "1853",
             "children": [
                 {
-                    "name": "cluster",
+                    "name": "Charles Waddell Chesnutt",
                     "children": [
                         {
-                            "name": "AgglomerativeCluster",
+                            "name": "House Behind the Cedars ",
                             "size": 3938
                         },
                         {
-                            "name": "CommunityStructure",
+                            "name": "The Marrow of Tradition ",
                             "size": 3812
-                        },
-                        {
-                            "name": "HierarchicalCluster",
-                            "size": 6714
-                        },
-                        {
-                            "name": "MergeEdge",
-                            "size": 743
                         }
                     ]
+                },
+                {
+                    "name": "Harriet E. Wilson",
+                    "children": [
+                        {
+                            "name": "Harriet E. Wilson",
+                            "size": 3938
+                        } 
+                    ] 
                 }
             ]
         }
