@@ -1,7 +1,6 @@
 {
     "name": "novels",
-    "children":
-[
+    "children": [
         {
             "name": "1850",
             "children": [
@@ -12,7 +11,8 @@
                             "name": "William Wells Brown",
                             "children": [
                                 {
-                                    "name": "Clotel: or, the President's Daughter"
+                                    "name": "Clotel: or, the President's Daughter",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -25,7 +25,8 @@
                             "name": "Martin R. Delany",
                             "children": [
                                 {
-                                    "name": "Blake; Or, The Huts of America "
+                                    "name": "Blake; Or, The Huts of America ",
+                                    "size": 100
                                 }
                             ]
                         },
@@ -33,7 +34,8 @@
                             "name": "Harriet E. Wilson",
                             "children": [
                                 {
-                                    "name": "Our Nig "
+                                    "name": "Our Nig ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -51,7 +53,8 @@
                             "name": "Sutton E. Griggs.",
                             "children": [
                                 {
-                                    "name": "Imperium in Imperio "
+                                    "name": "Imperium in Imperio ",
+                                    "size": 100
                                 }
                             ]
                         },
@@ -59,7 +62,8 @@
                             "name": "Theophilus Gould Steward",
                             "children": [
                                 {
-                                    "name": "A Charleston Love Story of Hortense Vancross "
+                                    "name": "A Charleston Love Story of Hortense Vancross ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -77,7 +81,8 @@
                             "name": "Charles Waddell Chesnutt",
                             "children": [
                                 {
-                                    "name": "House Behind the Cedars "
+                                    "name": "House Behind the Cedars ",
+                                    "size": 100
                                 }
                             ]
                         },
@@ -85,7 +90,8 @@
                             "name": "Pauline E. Hopkins",
                             "children": [
                                 {
-                                    "name": "Contending Forces: A Romance Illustrative of Negro Life North and South "
+                                    "name": "Contending Forces: A Romance Illustrative of Negro Life North and South ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -98,7 +104,8 @@
                             "name": "Charles Waddell Chesnutt",
                             "children": [
                                 {
-                                    "name": "The Marrow of Tradition"
+                                    "name": "The Marrow of Tradition",
+                                    "size": 100
                                 }
                             ]
                         },
@@ -106,7 +113,8 @@
                             "name": "Paul Laurence Dunbar ",
                             "children": [
                                 {
-                                    "name": "The Fanatics "
+                                    "name": "The Fanatics ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -119,7 +127,8 @@
                             "name": "Paul Laurence Dunbar ",
                             "children": [
                                 {
-                                    "name": "The Sport of the Gods "
+                                    "name": "The Sport of the Gods ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -132,7 +141,8 @@
                             "name": "Sutton E. Griggs.",
                             "children": [
                                 {
-                                    "name": "The Hindered Hand or, The Reign of the Repressionist "
+                                    "name": "The Hindered Hand or, The Reign of the Repressionist ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -150,7 +160,8 @@
                             "name": "W.E.B. DuBois",
                             "children": [
                                 {
-                                    "name": "The Quest of the Silver Fleece "
+                                    "name": "The Quest of the Silver Fleece ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -163,7 +174,8 @@
                             "name": "James Weldon Johnson",
                             "children": [
                                 {
-                                    "name": "The Autobiography of an Ex-Colored Man "
+                                    "name": "The Autobiography of an Ex-Colored Man ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -176,7 +188,8 @@
                             "name": "Oscar Micheaux ",
                             "children": [
                                 {
-                                    "name": "Conquest: The Story of A Negro Pioneer "
+                                    "name": "Conquest: The Story of A Negro Pioneer ",
+                                    "size": 100
                                 }
                             ]
                         }
@@ -189,974 +202,8 @@
                             "name": "Sarah Lee Brown Fleming",
                             "children": [
                                 {
-                                    "name": "Hope\u00e2\u20ac\u2122s Highway "
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1920",
-            "children": [
-                {
-                    "name": "1923",
-                    "children": [
-                        {
-                            "name": "Jean Toomer",
-                            "children": [
-                                {
-                                    "name": "Cane"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1928",
-                    "children": [
-                        {
-                            "name": "Rudolph Fisher ",
-                            "children": [
-                                {
-                                    "name": "The Walls of Jericho "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Nella Larsen",
-                            "children": [
-                                {
-                                    "name": "Quicksand"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Claude McKay",
-                            "children": [
-                                {
-                                    "name": "Home to Harlem "
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1930",
-            "children": [
-                {
-                    "name": "1930",
-                    "children": [
-                        {
-                            "name": "Langston Hughes",
-                            "children": [
-                                {
-                                    "name": "Not Without Laughter "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1931",
-                    "children": [
-                        {
-                            "name": "George Schuyler ",
-                            "children": [
-                                {
-                                    "name": "Black No More "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1937",
-                    "children": [
-                        {
-                            "name": "Zora Neale Hurston",
-                            "children": [
-                                {
-                                    "name": "Their Eyes Were Watching God "
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1940",
-            "children": [
-                {
-                    "name": "1940",
-                    "children": [
-                        {
-                            "name": "Richard Wright",
-                            "children": [
-                                {
-                                    "name": "Native Son "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1945",
-                    "children": [
-                        {
-                            "name": "Chester Himes",
-                            "children": [
-                                {
-                                    "name": "If He Hollers Let Him Go "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1946",
-                    "children": [
-                        {
-                            "name": "Ann Petry",
-                            "children": [
-                                {
-                                    "name": "The Street "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1948",
-                    "children": [
-                        {
-                            "name": "Dorothy West",
-                            "children": [
-                                {
-                                    "name": "The Living Is Easy "
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1950",
-            "children": [
-                {
-                    "name": "1952",
-                    "children": [
-                        {
-                            "name": "Ralph Ellison",
-                            "children": [
-                                {
-                                    "name": "Invisible Man "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1953",
-                    "children": [
-                        {
-                            "name": "James Baldwin",
-                            "children": [
-                                {
-                                    "name": "Go Tell It on The Mountain "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Richard Wright",
-                            "children": [
-                                {
-                                    "name": "The Outsider"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1959",
-                    "children": [
-                        {
-                            "name": "Paule Marshall",
-                            "children": [
-                                {
-                                    "name": "Brown Girl, Brownstones"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1960",
-            "children": [
-                {
-                    "name": "1962",
-                    "children": [
-                        {
-                            "name": "John Oliver Killens",
-                            "children": [
-                                {
-                                    "name": "And Then We Heard the Thunder "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1963",
-                    "children": [
-                        {
-                            "name": "Richard Wright",
-                            "children": [
-                                {
-                                    "name": "Lawd Today"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1966",
-                    "children": [
-                        {
-                            "name": "Margaret Walker",
-                            "children": [
-                                {
-                                    "name": "Jubilee"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1967",
-                    "children": [
-                        {
-                            "name": "Iceberg Slim",
-                            "children": [
-                                {
-                                    "name": "Trick Baby"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "John Edgar Wideman",
-                            "children": [
-                                {
-                                    "name": "A Glance Away "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "John A. Williams",
-                            "children": [
-                                {
-                                    "name": "The Man Who Cried I Am "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1969",
-                    "children": [
-                        {
-                            "name": "Iceberg Slim",
-                            "children": [
-                                {
-                                    "name": "Mama Black Widow"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1970",
-            "children": [
-                {
-                    "name": "1970",
-                    "children": [
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "The Bluest Eye "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Alice Walker",
-                            "children": [
-                                {
-                                    "name": "The Third Life of Grange Copeland "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1971",
-                    "children": [
-                        {
-                            "name": "Ernest Gaines",
-                            "children": [
-                                {
-                                    "name": "The Autobiography of Miss Jane Pittman"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "John Oliver Killens",
-                            "children": [
-                                {
-                                    "name": "The Cotillion: or, One Good Bull Is Half the Herd"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1972",
-                    "children": [
-                        {
-                            "name": "Ishmael Reed",
-                            "children": [
-                                {
-                                    "name": "Mumbo Jumbo "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1973",
-                    "children": [
-                        {
-                            "name": "Leon Forrest",
-                            "children": [
-                                {
-                                    "name": "There is a Tree More Ancient Than Eden"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "Sula"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1975",
-                    "children": [
-                        {
-                            "name": "Samuel Delany",
-                            "children": [
-                                {
-                                    "name": "Dhalgren"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Gayl Jones",
-                            "children": [
-                                {
-                                    "name": "Corregidora"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1976",
-                    "children": [
-                        {
-                            "name": "Octavia Butler",
-                            "children": [
-                                {
-                                    "name": "Patternmaster"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Alex Haley",
-                            "children": [
-                                {
-                                    "name": "Roots"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Gayl Jones",
-                            "children": [
-                                {
-                                    "name": "Eva's Man "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Ishmael Reed",
-                            "children": [
-                                {
-                                    "name": "Flight to Canada "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Alice Walker",
-                            "children": [
-                                {
-                                    "name": "Meridian "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1977",
-                    "children": [
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "Song of Solomon"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1979",
-                    "children": [
-                        {
-                            "name": "Octavia Butler",
-                            "children": [
-                                {
-                                    "name": "Kindred"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1980",
-            "children": [
-                {
-                    "name": "1980",
-                    "children": [
-                        {
-                            "name": "Toni Cade Bambara ",
-                            "children": [
-                                {
-                                    "name": "The Salt Eaters "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1981",
-                    "children": [
-                        {
-                            "name": "David Bradley ",
-                            "children": [
-                                {
-                                    "name": "The Chaneysville Incident "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "Tar Baby"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1982",
-                    "children": [
-                        {
-                            "name": "Charles Johnson",
-                            "children": [
-                                {
-                                    "name": "Oxherding Tale"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Gloria Naylor",
-                            "children": [
-                                {
-                                    "name": "The Women of Brewster Place "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Alice Walker",
-                            "children": [
-                                {
-                                    "name": "The Color Purple "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1983",
-                    "children": [
-                        {
-                            "name": "Leon Forrest",
-                            "children": [
-                                {
-                                    "name": "Two Wings to Veil My Face "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "John Edgar Wideman",
-                            "children": [
-                                {
-                                    "name": "Sent for You Yesterday"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1985",
-                    "children": [
-                        {
-                            "name": "Jamaica Kincaid",
-                            "children": [
-                                {
-                                    "name": "Annie John "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1986",
-                    "children": [
-                        {
-                            "name": "Sherley Anne Williams",
-                            "children": [
-                                {
-                                    "name": "Dessa Rose "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1987",
-                    "children": [
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "Beloved"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1988",
-                    "children": [
-                        {
-                            "name": "Clarence Major",
-                            "children": [
-                                {
-                                    "name": "Painted Turtle: Woman with Guitar "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Gloria Naylor",
-                            "children": [
-                                {
-                                    "name": "Mama Day"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "1990",
-            "children": [
-                {
-                    "name": "1990",
-                    "children": [
-                        {
-                            "name": "Charles Johnson",
-                            "children": [
-                                {
-                                    "name": "Middle Passage "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Walter Mosley",
-                            "children": [
-                                {
-                                    "name": "Devil in a Blue Dress "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "John Edgar Wideman",
-                            "children": [
-                                {
-                                    "name": "Philadelphia Fire"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1992",
-                    "children": [
-                        {
-                            "name": "Terry McMillan",
-                            "children": [
-                                {
-                                    "name": "Waiting to Exhale"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "Jazz"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1993",
-                    "children": [
-                        {
-                            "name": "Gwendolyn Brooks",
-                            "children": [
-                                {
-                                    "name": "Maud Martha "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Octavia Butler",
-                            "children": [
-                                {
-                                    "name": "Parable of the Sower"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Ernest Gaines",
-                            "children": [
-                                {
-                                    "name": "A Lesson Before Dying "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1994",
-                    "children": [
-                        {
-                            "name": "Bebe Moore Campbell  ",
-                            "children": [
-                                {
-                                    "name": "Brothers and Sisters"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Edwidge Danticat",
-                            "children": [
-                                {
-                                    "name": "Breath, Eyes, Memory"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1996",
-                    "children": [
-                        {
-                            "name": "Paul Beatty",
-                            "children": [
-                                {
-                                    "name": "The White Boy Shuffle "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Terry McMillan",
-                            "children": [
-                                {
-                                    "name": "How Stella Got Her Groove Back "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1997",
-                    "children": [
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "Paradise"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1998",
-                    "children": [
-                        {
-                            "name": "Octavia Butler",
-                            "children": [
-                                {
-                                    "name": "Parable of the Talents"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Gayl Jones",
-                            "children": [
-                                {
-                                    "name": "The Healing"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Danzy Senna  ",
-                            "children": [
-                                {
-                                    "name": "Caucasia"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "1999",
-                    "children": [
-                        {
-                            "name": "Gayl Jones",
-                            "children": [
-                                {
-                                    "name": "Mosquito"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Colson Whitehead ",
-                            "children": [
-                                {
-                                    "name": "The Intuitionist "
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "2000",
-            "children": [
-                {
-                    "name": "2000",
-                    "children": [
-                        {
-                            "name": "Sister Souljah",
-                            "children": [
-                                {
-                                    "name": "The Coldest Winter Ever"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "2001",
-                    "children": [
-                        {
-                            "name": "Percival Everett ",
-                            "children": [
-                                {
-                                    "name": "Erasure "
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Colson Whitehead ",
-                            "children": [
-                                {
-                                    "name": "John Henry Days "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "2002",
-                    "children": [
-                        {
-                            "name": "Tayari Jones",
-                            "children": [
-                                {
-                                    "name": "Leaving Atlanta "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "2003",
-                    "children": [
-                        {
-                            "name": "Edward P. Jones",
-                            "children": [
-                                {
-                                    "name": "The Known World"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "Love"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Walter Mosley",
-                            "children": [
-                                {
-                                    "name": "The Man in My Basement"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Suzan-Lori Parks",
-                            "children": [
-                                {
-                                    "name": "Getting Mother's Body "
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "2007",
-                    "children": [
-                        {
-                            "name": "Colson Whitehead ",
-                            "children": [
-                                {
-                                    "name": "Apex Hides the Hurt"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "2008",
-                    "children": [
-                        {
-                            "name": "Toni Morrison",
-                            "children": [
-                                {
-                                    "name": "A Mercy"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Richard Wright",
-                            "children": [
-                                {
-                                    "name": "A Father's Law"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "2009",
-                    "children": [
-                        {
-                            "name": "Attica Locke",
-                            "children": [
-                                {
-                                    "name": "Black Water Rising"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Colson Whitehead ",
-                            "children": [
-                                {
-                                    "name": "Sag Harbor"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "2010",
-            "children": [
-                {
-                    "name": "2010",
-                    "children": [
-                        {
-                            "name": "Terry McMillan",
-                            "children": [
-                                {
-                                    "name": "Getting to Happy"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "Ntozake Shange",
-                            "children": [
-                                {
-                                    "name": "Some Sing, Some Cry"
+                                    "name": "Hopes Highway ",
+                                    "size": 100
                                 }
                             ]
                         }
