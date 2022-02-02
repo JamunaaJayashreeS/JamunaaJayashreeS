@@ -1,6 +1,4 @@
-{
-    "name": "novels",
-    "children": [
+[
         {
             "name": "1850",
             "children": [
@@ -1164,4 +1162,4 @@
             ]
         }
     ]
-}
+
