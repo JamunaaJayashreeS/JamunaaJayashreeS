@@ -11,7 +11,8 @@
                             "name": "William Wells Brown",
                             "children": [
                                 {
-                                    "name": "Clotel: or, the President's Daughter"
+                                    "name": "Clotel: or, the President's Daughter",
+                                    "size":100
                                 }
                             ]
                         }
@@ -24,7 +25,8 @@
                             "name": "Martin R. Delany",
                             "children": [
                                 {
-                                    "name": "Blake; Or, The Huts of America "
+                                    "name": "Blake; Or, The Huts of America ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -32,7 +34,8 @@
                             "name": "Harriet E. Wilson",
                             "children": [
                                 {
-                                    "name": "Our Nig "
+                                    "name": "Our Nig ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -50,7 +53,8 @@
                             "name": "Sutton E. Griggs.",
                             "children": [
                                 {
-                                    "name": "Imperium in Imperio "
+                                    "name": "Imperium in Imperio ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -58,7 +62,8 @@
                             "name": "Theophilus Gould Steward",
                             "children": [
                                 {
-                                    "name": "A Charleston Love Story of Hortense Vancross "
+                                    "name": "A Charleston Love Story of Hortense Vancross ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -76,7 +81,8 @@
                             "name": "Charles Waddell Chesnutt",
                             "children": [
                                 {
-                                    "name": "House Behind the Cedars "
+                                    "name": "House Behind the Cedars ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -84,7 +90,8 @@
                             "name": "Pauline E. Hopkins",
                             "children": [
                                 {
-                                    "name": "Contending Forces: A Romance Illustrative of Negro Life North and South "
+                                    "name": "Contending Forces: A Romance Illustrative of Negro Life North and South ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -97,7 +104,8 @@
                             "name": "Charles Waddell Chesnutt",
                             "children": [
                                 {
-                                    "name": "The Marrow of Tradition"
+                                    "name": "The Marrow of Tradition",
+                                    "size":100
                                 }
                             ]
                         },
@@ -105,7 +113,8 @@
                             "name": "Paul Laurence Dunbar ",
                             "children": [
                                 {
-                                    "name": "The Fanatics "
+                                    "name": "The Fanatics ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -118,7 +127,8 @@
                             "name": "Paul Laurence Dunbar ",
                             "children": [
                                 {
-                                    "name": "The Sport of the Gods "
+                                    "name": "The Sport of the Gods ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -131,7 +141,8 @@
                             "name": "Sutton E. Griggs.",
                             "children": [
                                 {
-                                    "name": "The Hindered Hand or, The Reign of the Repressionist "
+                                    "name": "The Hindered Hand or, The Reign of the Repressionist ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -149,7 +160,8 @@
                             "name": "W.E.B. DuBois",
                             "children": [
                                 {
-                                    "name": "The Quest of the Silver Fleece "
+                                    "name": "The Quest of the Silver Fleece ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -162,7 +174,8 @@
                             "name": "James Weldon Johnson",
                             "children": [
                                 {
-                                    "name": "The Autobiography of an Ex-Colored Man "
+                                    "name": "The Autobiography of an Ex-Colored Man ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -175,7 +188,8 @@
                             "name": "Oscar Micheaux ",
                             "children": [
                                 {
-                                    "name": "Conquest: The Story of A Negro Pioneer "
+                                    "name": "Conquest: The Story of A Negro Pioneer ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -188,7 +202,8 @@
                             "name": "Sarah Lee Brown Fleming",
                             "children": [
                                 {
-                                    "name": "Hope\u00e2\u20ac\u2122s Highway "
+                                    "name": "Hope\u00e2\u20ac\u2122s Highway ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -206,7 +221,8 @@
                             "name": "Jean Toomer",
                             "children": [
                                 {
-                                    "name": "Cane"
+                                    "name": "Cane",
+                                    "size":100
                                 }
                             ]
                         }
@@ -219,7 +235,8 @@
                             "name": "Rudolph Fisher ",
                             "children": [
                                 {
-                                    "name": "The Walls of Jericho "
+                                    "name": "The Walls of Jericho ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -227,7 +244,8 @@
                             "name": "Nella Larsen",
                             "children": [
                                 {
-                                    "name": "Quicksand"
+                                    "name": "Quicksand",
+                                    "size":100
                                 }
                             ]
                         },
@@ -235,7 +253,8 @@
                             "name": "Claude McKay",
                             "children": [
                                 {
-                                    "name": "Home to Harlem "
+                                    "name": "Home to Harlem ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -253,7 +272,8 @@
                             "name": "Langston Hughes",
                             "children": [
                                 {
-                                    "name": "Not Without Laughter "
+                                    "name": "Not Without Laughter ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -266,7 +286,8 @@
                             "name": "George Schuyler ",
                             "children": [
                                 {
-                                    "name": "Black No More "
+                                    "name": "Black No More ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -279,7 +300,8 @@
                             "name": "Zora Neale Hurston",
                             "children": [
                                 {
-                                    "name": "Their Eyes Were Watching God "
+                                    "name": "Their Eyes Were Watching God ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -297,7 +319,8 @@
                             "name": "Richard Wright",
                             "children": [
                                 {
-                                    "name": "Native Son "
+                                    "name": "Native Son ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -310,7 +333,8 @@
                             "name": "Chester Himes",
                             "children": [
                                 {
-                                    "name": "If He Hollers Let Him Go "
+                                    "name": "If He Hollers Let Him Go ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -323,7 +347,8 @@
                             "name": "Ann Petry",
                             "children": [
                                 {
-                                    "name": "The Street "
+                                    "name": "The Street ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -336,7 +361,8 @@
                             "name": "Dorothy West",
                             "children": [
                                 {
-                                    "name": "The Living Is Easy "
+                                    "name": "The Living Is Easy ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -354,7 +380,8 @@
                             "name": "Ralph Ellison",
                             "children": [
                                 {
-                                    "name": "Invisible Man "
+                                    "name": "Invisible Man ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -367,7 +394,8 @@
                             "name": "James Baldwin",
                             "children": [
                                 {
-                                    "name": "Go Tell It on The Mountain "
+                                    "name": "Go Tell It on The Mountain ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -375,7 +403,8 @@
                             "name": "Richard Wright",
                             "children": [
                                 {
-                                    "name": "The Outsider"
+                                    "name": "The Outsider",
+                                    "size":100
                                 }
                             ]
                         }
@@ -388,7 +417,8 @@
                             "name": "Paule Marshall",
                             "children": [
                                 {
-                                    "name": "Brown Girl, Brownstones"
+                                    "name": "Brown Girl, Brownstones",
+                                    "size":100
                                 }
                             ]
                         }
@@ -406,7 +436,8 @@
                             "name": "John Oliver Killens",
                             "children": [
                                 {
-                                    "name": "And Then We Heard the Thunder "
+                                    "name": "And Then We Heard the Thunder ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -419,7 +450,8 @@
                             "name": "Richard Wright",
                             "children": [
                                 {
-                                    "name": "Lawd Today"
+                                    "name": "Lawd Today",
+                                    "size":100
                                 }
                             ]
                         }
@@ -432,7 +464,8 @@
                             "name": "Margaret Walker",
                             "children": [
                                 {
-                                    "name": "Jubilee"
+                                    "name": "Jubilee",
+                                    "size":100
                                 }
                             ]
                         }
@@ -445,7 +478,8 @@
                             "name": "Iceberg Slim",
                             "children": [
                                 {
-                                    "name": "Trick Baby"
+                                    "name": "Trick Baby",
+                                    "size":100
                                 }
                             ]
                         },
@@ -453,7 +487,8 @@
                             "name": "John Edgar Wideman",
                             "children": [
                                 {
-                                    "name": "A Glance Away "
+                                    "name": "A Glance Away ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -461,7 +496,8 @@
                             "name": "John A. Williams",
                             "children": [
                                 {
-                                    "name": "The Man Who Cried I Am "
+                                    "name": "The Man Who Cried I Am ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -474,7 +510,8 @@
                             "name": "Iceberg Slim",
                             "children": [
                                 {
-                                    "name": "Mama Black Widow"
+                                    "name": "Mama Black Widow",
+                                    "size":100
                                 }
                             ]
                         }
@@ -492,7 +529,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "The Bluest Eye "
+                                    "name": "The Bluest Eye ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -500,7 +538,8 @@
                             "name": "Alice Walker",
                             "children": [
                                 {
-                                    "name": "The Third Life of Grange Copeland "
+                                    "name": "The Third Life of Grange Copeland ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -513,7 +552,8 @@
                             "name": "Ernest Gaines",
                             "children": [
                                 {
-                                    "name": "The Autobiography of Miss Jane Pittman"
+                                    "name": "The Autobiography of Miss Jane Pittman",
+                                    "size":100
                                 }
                             ]
                         },
@@ -521,7 +561,8 @@
                             "name": "John Oliver Killens",
                             "children": [
                                 {
-                                    "name": "The Cotillion: or, One Good Bull Is Half the Herd"
+                                    "name": "The Cotillion: or, One Good Bull Is Half the Herd",
+                                    "size":100
                                 }
                             ]
                         }
@@ -534,7 +575,8 @@
                             "name": "Ishmael Reed",
                             "children": [
                                 {
-                                    "name": "Mumbo Jumbo "
+                                    "name": "Mumbo Jumbo ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -547,7 +589,8 @@
                             "name": "Leon Forrest",
                             "children": [
                                 {
-                                    "name": "There is a Tree More Ancient Than Eden"
+                                    "name": "There is a Tree More Ancient Than Eden",
+                                    "size":100
                                 }
                             ]
                         },
@@ -555,7 +598,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "Sula"
+                                    "name": "Sula",
+                                    "size":100
                                 }
                             ]
                         }
@@ -568,7 +612,8 @@
                             "name": "Samuel Delany",
                             "children": [
                                 {
-                                    "name": "Dhalgren"
+                                    "name": "Dhalgren",
+                                    "size":100
                                 }
                             ]
                         },
@@ -576,7 +621,8 @@
                             "name": "Gayl Jones",
                             "children": [
                                 {
-                                    "name": "Corregidora"
+                                    "name": "Corregidora",
+                                    "size":100
                                 }
                             ]
                         }
@@ -589,7 +635,8 @@
                             "name": "Octavia Butler",
                             "children": [
                                 {
-                                    "name": "Patternmaster"
+                                    "name": "Patternmaster",
+                                    "size":100
                                 }
                             ]
                         },
@@ -597,7 +644,8 @@
                             "name": "Alex Haley",
                             "children": [
                                 {
-                                    "name": "Roots"
+                                    "name": "Roots",
+                                    "size":100
                                 }
                             ]
                         },
@@ -605,7 +653,8 @@
                             "name": "Gayl Jones",
                             "children": [
                                 {
-                                    "name": "Eva's Man "
+                                    "name": "Eva's Man ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -613,7 +662,8 @@
                             "name": "Ishmael Reed",
                             "children": [
                                 {
-                                    "name": "Flight to Canada "
+                                    "name": "Flight to Canada ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -621,7 +671,8 @@
                             "name": "Alice Walker",
                             "children": [
                                 {
-                                    "name": "Meridian "
+                                    "name": "Meridian ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -634,7 +685,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "Song of Solomon"
+                                    "name": "Song of Solomon",
+                                    "size":100
                                 }
                             ]
                         }
@@ -647,7 +699,8 @@
                             "name": "Octavia Butler",
                             "children": [
                                 {
-                                    "name": "Kindred"
+                                    "name": "Kindred",
+                                    "size":100
                                 }
                             ]
                         }
@@ -665,7 +718,8 @@
                             "name": "Toni Cade Bambara ",
                             "children": [
                                 {
-                                    "name": "The Salt Eaters "
+                                    "name": "The Salt Eaters ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -678,7 +732,8 @@
                             "name": "David Bradley ",
                             "children": [
                                 {
-                                    "name": "The Chaneysville Incident "
+                                    "name": "The Chaneysville Incident ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -686,7 +741,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "Tar Baby"
+                                    "name": "Tar Baby",
+                                    "size":100
                                 }
                             ]
                         }
@@ -699,7 +755,8 @@
                             "name": "Charles Johnson",
                             "children": [
                                 {
-                                    "name": "Oxherding Tale"
+                                    "name": "Oxherding Tale",
+                                    "size":100
                                 }
                             ]
                         },
@@ -707,7 +764,8 @@
                             "name": "Gloria Naylor",
                             "children": [
                                 {
-                                    "name": "The Women of Brewster Place "
+                                    "name": "The Women of Brewster Place ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -715,7 +773,8 @@
                             "name": "Alice Walker",
                             "children": [
                                 {
-                                    "name": "The Color Purple "
+                                    "name": "The Color Purple ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -728,7 +787,8 @@
                             "name": "Leon Forrest",
                             "children": [
                                 {
-                                    "name": "Two Wings to Veil My Face "
+                                    "name": "Two Wings to Veil My Face ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -736,7 +796,8 @@
                             "name": "John Edgar Wideman",
                             "children": [
                                 {
-                                    "name": "Sent for You Yesterday"
+                                    "name": "Sent for You Yesterday",
+                                    "size":100
                                 }
                             ]
                         }
@@ -749,7 +810,8 @@
                             "name": "Jamaica Kincaid",
                             "children": [
                                 {
-                                    "name": "Annie John "
+                                    "name": "Annie John ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -762,7 +824,8 @@
                             "name": "Sherley Anne Williams",
                             "children": [
                                 {
-                                    "name": "Dessa Rose "
+                                    "name": "Dessa Rose ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -775,7 +838,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "Beloved"
+                                    "name": "Beloved",
+                                    "size":100
                                 }
                             ]
                         }
@@ -788,7 +852,8 @@
                             "name": "Clarence Major",
                             "children": [
                                 {
-                                    "name": "Painted Turtle: Woman with Guitar "
+                                    "name": "Painted Turtle: Woman with Guitar ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -796,7 +861,8 @@
                             "name": "Gloria Naylor",
                             "children": [
                                 {
-                                    "name": "Mama Day"
+                                    "name": "Mama Day",
+                                    "size":100
                                 }
                             ]
                         }
@@ -814,7 +880,8 @@
                             "name": "Charles Johnson",
                             "children": [
                                 {
-                                    "name": "Middle Passage "
+                                    "name": "Middle Passage ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -822,7 +889,8 @@
                             "name": "Walter Mosley",
                             "children": [
                                 {
-                                    "name": "Devil in a Blue Dress "
+                                    "name": "Devil in a Blue Dress ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -830,7 +898,8 @@
                             "name": "John Edgar Wideman",
                             "children": [
                                 {
-                                    "name": "Philadelphia Fire"
+                                    "name": "Philadelphia Fire",
+                                    "size":100
                                 }
                             ]
                         }
@@ -843,7 +912,8 @@
                             "name": "Terry McMillan",
                             "children": [
                                 {
-                                    "name": "Waiting to Exhale"
+                                    "name": "Waiting to Exhale",
+                                    "size":100
                                 }
                             ]
                         },
@@ -851,7 +921,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "Jazz"
+                                    "name": "Jazz",
+                                    "size":100
                                 }
                             ]
                         }
@@ -864,7 +935,8 @@
                             "name": "Gwendolyn Brooks",
                             "children": [
                                 {
-                                    "name": "Maud Martha "
+                                    "name": "Maud Martha ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -872,7 +944,8 @@
                             "name": "Octavia Butler",
                             "children": [
                                 {
-                                    "name": "Parable of the Sower"
+                                    "name": "Parable of the Sower",
+                                    "size":100
                                 }
                             ]
                         },
@@ -880,7 +953,8 @@
                             "name": "Ernest Gaines",
                             "children": [
                                 {
-                                    "name": "A Lesson Before Dying "
+                                    "name": "A Lesson Before Dying ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -893,7 +967,8 @@
                             "name": "Bebe Moore Campbell  ",
                             "children": [
                                 {
-                                    "name": "Brothers and Sisters"
+                                    "name": "Brothers and Sisters",
+                                    "size":100
                                 }
                             ]
                         },
@@ -901,7 +976,8 @@
                             "name": "Edwidge Danticat",
                             "children": [
                                 {
-                                    "name": "Breath, Eyes, Memory"
+                                    "name": "Breath, Eyes, Memory",
+                                    "size":100
                                 }
                             ]
                         }
@@ -914,7 +990,8 @@
                             "name": "Paul Beatty",
                             "children": [
                                 {
-                                    "name": "The White Boy Shuffle "
+                                    "name": "The White Boy Shuffle ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -922,7 +999,8 @@
                             "name": "Terry McMillan",
                             "children": [
                                 {
-                                    "name": "How Stella Got Her Groove Back "
+                                    "name": "How Stella Got Her Groove Back ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -935,7 +1013,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "Paradise"
+                                    "name": "Paradise",
+                                    "size":100
                                 }
                             ]
                         }
@@ -948,7 +1027,8 @@
                             "name": "Octavia Butler",
                             "children": [
                                 {
-                                    "name": "Parable of the Talents"
+                                    "name": "Parable of the Talents",
+                                    "size":100
                                 }
                             ]
                         },
@@ -956,7 +1036,8 @@
                             "name": "Gayl Jones",
                             "children": [
                                 {
-                                    "name": "The Healing"
+                                    "name": "The Healing",
+                                    "size":100
                                 }
                             ]
                         },
@@ -964,7 +1045,8 @@
                             "name": "Danzy Senna  ",
                             "children": [
                                 {
-                                    "name": "Caucasia"
+                                    "name": "Caucasia",
+                                    "size":100
                                 }
                             ]
                         }
@@ -977,7 +1059,8 @@
                             "name": "Gayl Jones",
                             "children": [
                                 {
-                                    "name": "Mosquito"
+                                    "name": "Mosquito",
+                                    "size":100
                                 }
                             ]
                         },
@@ -985,7 +1068,8 @@
                             "name": "Colson Whitehead ",
                             "children": [
                                 {
-                                    "name": "The Intuitionist "
+                                    "name": "The Intuitionist ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1003,7 +1087,8 @@
                             "name": "Sister Souljah",
                             "children": [
                                 {
-                                    "name": "The Coldest Winter Ever"
+                                    "name": "The Coldest Winter Ever",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1016,7 +1101,8 @@
                             "name": "Percival Everett ",
                             "children": [
                                 {
-                                    "name": "Erasure "
+                                    "name": "Erasure ",
+                                    "size":100
                                 }
                             ]
                         },
@@ -1024,7 +1110,8 @@
                             "name": "Colson Whitehead ",
                             "children": [
                                 {
-                                    "name": "John Henry Days "
+                                    "name": "John Henry Days ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1037,7 +1124,8 @@
                             "name": "Tayari Jones",
                             "children": [
                                 {
-                                    "name": "Leaving Atlanta "
+                                    "name": "Leaving Atlanta ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1050,7 +1138,8 @@
                             "name": "Edward P. Jones",
                             "children": [
                                 {
-                                    "name": "The Known World"
+                                    "name": "The Known World",
+                                    "size":100
                                 }
                             ]
                         },
@@ -1058,7 +1147,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "Love"
+                                    "name": "Love",
+                                    "size":100
                                 }
                             ]
                         },
@@ -1066,7 +1156,8 @@
                             "name": "Walter Mosley",
                             "children": [
                                 {
-                                    "name": "The Man in My Basement"
+                                    "name": "The Man in My Basement",
+                                    "size":100
                                 }
                             ]
                         },
@@ -1074,7 +1165,8 @@
                             "name": "Suzan-Lori Parks",
                             "children": [
                                 {
-                                    "name": "Getting Mother's Body "
+                                    "name": "Getting Mother's Body ",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1087,7 +1179,8 @@
                             "name": "Colson Whitehead ",
                             "children": [
                                 {
-                                    "name": "Apex Hides the Hurt"
+                                    "name": "Apex Hides the Hurt",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1100,7 +1193,8 @@
                             "name": "Toni Morrison",
                             "children": [
                                 {
-                                    "name": "A Mercy"
+                                    "name": "A Mercy",
+                                    "size":100
                                 }
                             ]
                         },
@@ -1108,7 +1202,8 @@
                             "name": "Richard Wright",
                             "children": [
                                 {
-                                    "name": "A Father's Law"
+                                    "name": "A Father's Law",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1121,7 +1216,8 @@
                             "name": "Attica Locke",
                             "children": [
                                 {
-                                    "name": "Black Water Rising"
+                                    "name": "Black Water Rising",
+                                    "size":100
                                 }
                             ]
                         },
@@ -1129,7 +1225,8 @@
                             "name": "Colson Whitehead ",
                             "children": [
                                 {
-                                    "name": "Sag Harbor"
+                                    "name": "Sag Harbor",
+                                    "size":100
                                 }
                             ]
                         }
@@ -1147,7 +1244,8 @@
                             "name": "Terry McMillan",
                             "children": [
                                 {
-                                    "name": "Getting to Happy"
+                                    "name": "Getting to Happy",
+                                    "size":100
                                 }
                             ]
                         },
@@ -1155,7 +1253,8 @@
                             "name": "Ntozake Shange",
                             "children": [
                                 {
-                                    "name": "Some Sing, Some Cry"
+                                    "name": "Some Sing, Some Cry",
+                                    "size":100
                                 }
                             ]
                         }
