@@ -9,10 +9,7 @@
                             "name": "William Wells Brown",
                             "children": [{
                                     "name": "Clotel: or, the President's Daughter ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -23,20 +20,14 @@
                             "name": "Martin R. Delany",
                             "children": [{
                                     "name": "Blake; Or, The Huts of America ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Harriet E. Wilson",
                             "children": [{
                                     "name": "Our Nig ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -51,20 +42,14 @@
                             "name": "Sutton E. Griggs.",
                             "children": [{
                                     "name": "Imperium in Imperio ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Theophilus Gould Steward",
                             "children": [{
                                     "name": "A Charleston Love Story of Hortense Vancross ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -79,20 +64,14 @@
                             "name": "Charles Waddell Chesnutt",
                             "children": [{
                                     "name": "House Behind the Cedars ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Pauline E. Hopkins",
                             "children": [{
                                     "name": "Contending Forces: A Romance Illustrative of Negro Life North and South ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -103,20 +82,14 @@
                             "name": "Charles Waddell Chesnutt",
                             "children": [{
                                     "name": "The Marrow of Tradition ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Paul Laurence Dunbar ",
                             "children": [{
                                     "name": "The Fanatics ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -127,10 +100,7 @@
                             "name": "Paul Laurence Dunbar ",
                             "children": [{
                                     "name": "The Sport of the Gods ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -141,10 +111,7 @@
                             "name": "Sutton E. Griggs.",
                             "children": [{
                                     "name": "The Hindered Hand or, The Reign of the Repressionist ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -159,10 +126,7 @@
                             "name": "W.E.B. DuBois",
                             "children": [{
                                     "name": "The Quest of the Silver Fleece ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -173,10 +137,7 @@
                             "name": "James Weldon Johnson",
                             "children": [{
                                     "name": "The Autobiography of an Ex-Colored Man ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -187,10 +148,7 @@
                             "name": "Oscar Micheaux ",
                             "children": [{
                                     "name": "Conquest: The Story of A Negro Pioneer ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -200,11 +158,8 @@
                     "children": [{
                             "name": "Sarah Lee Brown Fleming",
                             "children": [{
-                                    "name": "Hope\u00e2\u20ac\u2122s Highway ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "name": "Hope's Highway ",
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -219,10 +174,7 @@
                             "name": "Jean Toomer",
                             "children": [{
                                     "name": "Cane",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -233,30 +185,21 @@
                             "name": "Rudolph Fisher ",
                             "children": [{
                                     "name": "The Walls of Jericho ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Nella Larsen",
                             "children": [{
                                     "name": "Quicksand",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Claude McKay",
                             "children": [{
                                     "name": "Home to Harlem ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -271,10 +214,7 @@
                             "name": "Langston Hughes",
                             "children": [{
                                     "name": "Not Without Laughter ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -285,10 +225,7 @@
                             "name": "George Schuyler ",
                             "children": [{
                                     "name": "Black No More ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -299,10 +236,7 @@
                             "name": "Zora Neale Hurston",
                             "children": [{
                                     "name": "Their Eyes Were Watching God ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -317,10 +251,7 @@
                             "name": "Richard Wright",
                             "children": [{
                                     "name": "Native Son ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -331,10 +262,7 @@
                             "name": "Chester Himes",
                             "children": [{
                                     "name": "If He Hollers Let Him Go ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -345,10 +273,7 @@
                             "name": "Ann Petry",
                             "children": [{
                                     "name": "The Street ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -359,10 +284,7 @@
                             "name": "Dorothy West",
                             "children": [{
                                     "name": "The Living Is Easy ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -377,10 +299,7 @@
                             "name": "Ralph Ellison",
                             "children": [{
                                     "name": "Invisible Man ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -391,20 +310,14 @@
                             "name": "James Baldwin",
                             "children": [{
                                     "name": "Go Tell It on The Mountain ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Richard Wright",
                             "children": [{
                                     "name": "The Outsider",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -415,10 +328,7 @@
                             "name": "Paule Marshall",
                             "children": [{
                                     "name": "Brown Girl, Brownstones",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -433,10 +343,7 @@
                             "name": "John Oliver Killens",
                             "children": [{
                                     "name": "And Then We Heard the Thunder ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -447,10 +354,7 @@
                             "name": "Richard Wright",
                             "children": [{
                                     "name": "Lawd Today",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -461,10 +365,7 @@
                             "name": "Margaret Walker",
                             "children": [{
                                     "name": "Jubilee",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -475,30 +376,21 @@
                             "name": "Iceberg Slim",
                             "children": [{
                                     "name": "Trick Baby",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "John Edgar Wideman",
                             "children": [{
                                     "name": "A Glance Away ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "John A. Williams",
                             "children": [{
                                     "name": "The Man Who Cried I Am ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -509,10 +401,7 @@
                             "name": "Iceberg Slim",
                             "children": [{
                                     "name": "Mama Black Widow",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -527,20 +416,14 @@
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "The Bluest Eye ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Alice Walker",
                             "children": [{
                                     "name": "The Third Life of Grange Copeland ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -551,20 +434,14 @@
                             "name": "Ernest Gaines",
                             "children": [{
                                     "name": "The Autobiography of Miss Jane Pittman",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "John Oliver Killens",
                             "children": [{
                                     "name": "The Cotillion: or, One Good Bull Is Half the Herd",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -575,10 +452,7 @@
                             "name": "Ishmael Reed",
                             "children": [{
                                     "name": "Mumbo Jumbo ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -589,20 +463,14 @@
                             "name": "Leon Forrest",
                             "children": [{
                                     "name": "There is a Tree More Ancient Than Eden",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "Sula",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -613,20 +481,14 @@
                             "name": "Samuel Delany",
                             "children": [{
                                     "name": "Dhalgren",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Gayl Jones",
                             "children": [{
                                     "name": "Corregidora",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -637,50 +499,35 @@
                             "name": "Octavia Butler",
                             "children": [{
                                     "name": "Patternmaster",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Alex Haley",
                             "children": [{
                                     "name": "Roots",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Gayl Jones",
                             "children": [{
                                     "name": "Eva's Man ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Ishmael Reed",
                             "children": [{
                                     "name": "Flight to Canada ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Alice Walker",
                             "children": [{
                                     "name": "Meridian ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -691,10 +538,7 @@
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "Song of Solomon",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -705,10 +549,7 @@
                             "name": "Octavia Butler",
                             "children": [{
                                     "name": "Kindred",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -723,10 +564,7 @@
                             "name": "Toni Cade Bambara ",
                             "children": [{
                                     "name": "The Salt Eaters ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -737,20 +575,14 @@
                             "name": "David Bradley ",
                             "children": [{
                                     "name": "The Chaneysville Incident ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "Tar Baby",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -761,30 +593,21 @@
                             "name": "Charles Johnson",
                             "children": [{
                                     "name": "Oxherding Tale",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Gloria Naylor",
                             "children": [{
                                     "name": "The Women of Brewster Place ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Alice Walker",
                             "children": [{
                                     "name": "The Color Purple ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -795,20 +618,14 @@
                             "name": "Leon Forrest",
                             "children": [{
                                     "name": "Two Wings to Veil My Face ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "John Edgar Wideman",
                             "children": [{
                                     "name": "Sent for You Yesterday",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -819,10 +636,7 @@
                             "name": "Jamaica Kincaid",
                             "children": [{
                                     "name": "Annie John ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -833,10 +647,7 @@
                             "name": "Sherley Anne Williams",
                             "children": [{
                                     "name": "Dessa Rose ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -847,10 +658,7 @@
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "Beloved",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -861,20 +669,14 @@
                             "name": "Clarence Major",
                             "children": [{
                                     "name": "Painted Turtle: Woman with Guitar ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Gloria Naylor",
                             "children": [{
                                     "name": "Mama Day",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -889,30 +691,21 @@
                             "name": "Charles Johnson",
                             "children": [{
                                     "name": "Middle Passage ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Walter Mosley",
                             "children": [{
                                     "name": "Devil in a Blue Dress ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "John Edgar Wideman",
                             "children": [{
                                     "name": "Philadelphia Fire",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -923,20 +716,14 @@
                             "name": "Terry McMillan",
                             "children": [{
                                     "name": "Waiting to Exhale",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "Jazz",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -947,30 +734,21 @@
                             "name": "Gwendolyn Brooks",
                             "children": [{
                                     "name": "Maud Martha ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Octavia Butler",
                             "children": [{
                                     "name": "Parable of the Sower",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Ernest Gaines",
                             "children": [{
                                     "name": "A Lesson Before Dying ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -981,20 +759,14 @@
                             "name": "Bebe Moore Campbell  ",
                             "children": [{
                                     "name": "Brothers and Sisters",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Edwidge Danticat",
                             "children": [{
                                     "name": "Breath, Eyes, Memory",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -1005,20 +777,14 @@
                             "name": "Paul Beatty",
                             "children": [{
                                     "name": "The White Boy Shuffle ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Terry McMillan",
                             "children": [{
                                     "name": "How Stella Got Her Groove Back ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -1029,10 +795,7 @@
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "Paradise",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -1043,30 +806,21 @@
                             "name": "Octavia Butler",
                             "children": [{
                                     "name": "Parable of the Talents",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Gayl Jones",
                             "children": [{
                                     "name": "The Healing",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Danzy Senna  ",
                             "children": [{
                                     "name": "Caucasia",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -1077,20 +831,14 @@
                             "name": "Gayl Jones",
                             "children": [{
                                     "name": "Mosquito",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Colson Whitehead ",
                             "children": [{
                                     "name": "The Intuitionist ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -1105,10 +853,7 @@
                             "name": "Sister Souljah",
                             "children": [{
                                     "name": "The Coldest Winter Ever",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -1119,20 +864,14 @@
                             "name": "Percival Everett ",
                             "children": [{
                                     "name": "Erasure ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Colson Whitehead ",
                             "children": [{
                                     "name": "John Henry Days ",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -1143,10 +882,7 @@
                             "name": "Tayari Jones",
                             "children": [{
                                     "name": "Leaving Atlanta ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -1157,40 +893,28 @@
                             "name": "Edward P. Jones",
                             "children": [{
                                     "name": "The Known World",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "Love",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Walter Mosley",
                             "children": [{
                                     "name": "The Man in My Basement",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }, {
                             "name": "Suzan-Lori Parks",
                             "children": [{
                                     "name": "Getting Mother's Body ",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
@@ -1201,10 +925,7 @@
                             "name": "Colson Whitehead ",
                             "children": [{
                                     "name": "Apex Hides the Hurt",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -1215,20 +936,14 @@
                             "name": "Toni Morrison",
                             "children": [{
                                     "name": "A Mercy",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Richard Wright",
                             "children": [{
                                     "name": "A Father's Law",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -1239,20 +954,14 @@
                             "name": "Attica Locke",
                             "children": [{
                                     "name": "Black Water Rising",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Colson Whitehead ",
                             "children": [{
                                     "name": "Sag Harbor",
-                                    "children": [{
-                                            "name": "Male"
-                                        }
-                                    ]
+                                    "gender": "Male"
                                 }
                             ]
                         }
@@ -1267,20 +976,14 @@
                             "name": "Terry McMillan",
                             "children": [{
                                     "name": "Getting to Happy",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }, {
                             "name": "Ntozake Shange",
                             "children": [{
                                     "name": "Some Sing, Some Cry",
-                                    "children": [{
-                                            "name": "Female"
-                                        }
-                                    ]
+                                    "gender":"Female"
                                 }
                             ]
                         }
