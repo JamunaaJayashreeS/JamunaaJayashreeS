@@ -1,0 +1,657 @@
+{
+    "name": "novels",
+    "children":
+    [{
+            "name": "1850",
+            "children": [{
+                    "name": "Clotel: or, the President's Daughter ",
+                    "children": [{
+                            "name": "William Wells Brown"
+                        }
+                    ]
+                }, {
+                    "name": "Blake; Or, The Huts of America ",
+                    "children": [{
+                            "name": "Martin R. Delany"
+                        }
+                    ]
+                }, {
+                    "name": "Our Nig ",
+                    "children": [{
+                            "name": "Harriet E. Wilson"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1890",
+            "children": [{
+                    "name": "Imperium in Imperio ",
+                    "children": [{
+                            "name": "Sutton E. Griggs."
+                        }
+                    ]
+                }, {
+                    "name": "A Charleston Love Story of Hortense Vancross ",
+                    "children": [{
+                            "name": "Theophilus Gould Steward"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1900",
+            "children": [{
+                    "name": "House Behind the Cedars ",
+                    "children": [{
+                            "name": "Charles Waddell Chesnutt"
+                        }
+                    ]
+                }, {
+                    "name": "Contending Forces: A Romance Illustrative of Negro Life North and South ",
+                    "children": [{
+                            "name": "Pauline E. Hopkins"
+                        }
+                    ]
+                }, {
+                    "name": "The Marrow of Tradition ",
+                    "children": [{
+                            "name": "Charles Waddell Chesnutt"
+                        }
+                    ]
+                }, {
+                    "name": "The Fanatics ",
+                    "children": [{
+                            "name": "Paul Laurence Dunbar "
+                        }
+                    ]
+                }, {
+                    "name": "The Sport of the Gods ",
+                    "children": [{
+                            "name": "Paul Laurence Dunbar "
+                        }
+                    ]
+                }, {
+                    "name": "The Hindered Hand or, The Reign of the Repressionist ",
+                    "children": [{
+                            "name": "Sutton E. Griggs."
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1910",
+            "children": [{
+                    "name": "The Quest of the Silver Fleece ",
+                    "children": [{
+                            "name": "W.E.B. DuBois"
+                        }
+                    ]
+                }, {
+                    "name": "The Autobiography of an Ex-Colored Man ",
+                    "children": [{
+                            "name": "James Weldon Johnson"
+                        }
+                    ]
+                }, {
+                    "name": "Conquest: The Story of A Negro Pioneer ",
+                    "children": [{
+                            "name": "Oscar Micheaux "
+                        }
+                    ]
+                }, {
+                    "name": "Hope's Highway ",
+                    "children": [{
+                            "name": "Sarah Lee Brown Fleming"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1920",
+            "children": [{
+                    "name": "Cane",
+                    "children": [{
+                            "name": "Jean Toomer"
+                        }
+                    ]
+                }, {
+                    "name": "The Walls of Jericho ",
+                    "children": [{
+                            "name": "Rudolph Fisher "
+                        }
+                    ]
+                }, {
+                    "name": "Quicksand",
+                    "children": [{
+                            "name": "Nella Larsen"
+                        }
+                    ]
+                }, {
+                    "name": "Home to Harlem ",
+                    "children": [{
+                            "name": "Claude McKay"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1930",
+            "children": [{
+                    "name": "Not Without Laughter ",
+                    "children": [{
+                            "name": "Langston Hughes"
+                        }
+                    ]
+                }, {
+                    "name": "Black No More ",
+                    "children": [{
+                            "name": "George Schuyler "
+                        }
+                    ]
+                }, {
+                    "name": "Their Eyes Were Watching God ",
+                    "children": [{
+                            "name": "Zora Neale Hurston"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1940",
+            "children": [{
+                    "name": "Native Son ",
+                    "children": [{
+                            "name": "Richard Wright"
+                        }
+                    ]
+                }, {
+                    "name": "If He Hollers Let Him Go ",
+                    "children": [{
+                            "name": "Chester Himes"
+                        }
+                    ]
+                }, {
+                    "name": "The Street ",
+                    "children": [{
+                            "name": "Ann Petry"
+                        }
+                    ]
+                }, {
+                    "name": "The Living Is Easy ",
+                    "children": [{
+                            "name": "Dorothy West"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1950",
+            "children": [{
+                    "name": "Invisible Man ",
+                    "children": [{
+                            "name": "Ralph Ellison"
+                        }
+                    ]
+                }, {
+                    "name": "Go Tell It on The Mountain ",
+                    "children": [{
+                            "name": "James Baldwin"
+                        }
+                    ]
+                }, {
+                    "name": "The Outsider",
+                    "children": [{
+                            "name": "Richard Wright"
+                        }
+                    ]
+                }, {
+                    "name": "Brown Girl, Brownstones",
+                    "children": [{
+                            "name": "Paule Marshall"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1960",
+            "children": [{
+                    "name": "And Then We Heard the Thunder ",
+                    "children": [{
+                            "name": "John Oliver Killens"
+                        }
+                    ]
+                }, {
+                    "name": "Lawd Today",
+                    "children": [{
+                            "name": "Richard Wright"
+                        }
+                    ]
+                }, {
+                    "name": "Jubilee",
+                    "children": [{
+                            "name": "Margaret Walker"
+                        }
+                    ]
+                }, {
+                    "name": "Trick Baby",
+                    "children": [{
+                            "name": "Iceberg Slim"
+                        }
+                    ]
+                }, {
+                    "name": "A Glance Away ",
+                    "children": [{
+                            "name": "John Edgar Wideman"
+                        }
+                    ]
+                }, {
+                    "name": "The Man Who Cried I Am ",
+                    "children": [{
+                            "name": "John A. Williams"
+                        }
+                    ]
+                }, {
+                    "name": "Mama Black Widow",
+                    "children": [{
+                            "name": "Iceberg Slim"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1970",
+            "children": [{
+                    "name": "The Bluest Eye ",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "The Third Life of Grange Copeland ",
+                    "children": [{
+                            "name": "Alice Walker"
+                        }
+                    ]
+                }, {
+                    "name": "The Autobiography of Miss Jane Pittman",
+                    "children": [{
+                            "name": "Ernest Gaines"
+                        }
+                    ]
+                }, {
+                    "name": "The Cotillion: or, One Good Bull Is Half the Herd",
+                    "children": [{
+                            "name": "John Oliver Killens"
+                        }
+                    ]
+                }, {
+                    "name": "Mumbo Jumbo ",
+                    "children": [{
+                            "name": "Ishmael Reed"
+                        }
+                    ]
+                }, {
+                    "name": "There is a Tree More Ancient Than Eden",
+                    "children": [{
+                            "name": "Leon Forrest"
+                        }
+                    ]
+                }, {
+                    "name": "Sula",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "Dhalgren",
+                    "children": [{
+                            "name": "Samuel Delany"
+                        }
+                    ]
+                }, {
+                    "name": "Corregidora",
+                    "children": [{
+                            "name": "Gayl Jones"
+                        }
+                    ]
+                }, {
+                    "name": "Patternmaster",
+                    "children": [{
+                            "name": "Octavia Butler"
+                        }
+                    ]
+                }, {
+                    "name": "Roots",
+                    "children": [{
+                            "name": "Alex Haley"
+                        }
+                    ]
+                }, {
+                    "name": "Eva's Man ",
+                    "children": [{
+                            "name": "Gayl Jones"
+                        }
+                    ]
+                }, {
+                    "name": "Flight to Canada ",
+                    "children": [{
+                            "name": "Ishmael Reed"
+                        }
+                    ]
+                }, {
+                    "name": "Meridian ",
+                    "children": [{
+                            "name": "Alice Walker"
+                        }
+                    ]
+                }, {
+                    "name": "Song of Solomon",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "Kindred",
+                    "children": [{
+                            "name": "Octavia Butler"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1980",
+            "children": [{
+                    "name": "The Salt Eaters ",
+                    "children": [{
+                            "name": "Toni Cade Bambara "
+                        }
+                    ]
+                }, {
+                    "name": "The Chaneysville Incident ",
+                    "children": [{
+                            "name": "David Bradley "
+                        }
+                    ]
+                }, {
+                    "name": "Tar Baby",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "Oxherding Tale",
+                    "children": [{
+                            "name": "Charles Johnson"
+                        }
+                    ]
+                }, {
+                    "name": "The Women of Brewster Place ",
+                    "children": [{
+                            "name": "Gloria Naylor"
+                        }
+                    ]
+                }, {
+                    "name": "The Color Purple ",
+                    "children": [{
+                            "name": "Alice Walker"
+                        }
+                    ]
+                }, {
+                    "name": "Two Wings to Veil My Face ",
+                    "children": [{
+                            "name": "Leon Forrest"
+                        }
+                    ]
+                }, {
+                    "name": "Sent for You Yesterday",
+                    "children": [{
+                            "name": "John Edgar Wideman"
+                        }
+                    ]
+                }, {
+                    "name": "Annie John ",
+                    "children": [{
+                            "name": "Jamaica Kincaid"
+                        }
+                    ]
+                }, {
+                    "name": "Dessa Rose ",
+                    "children": [{
+                            "name": "Sherley Anne Williams"
+                        }
+                    ]
+                }, {
+                    "name": "Beloved",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "Painted Turtle: Woman with Guitar ",
+                    "children": [{
+                            "name": "Clarence Major"
+                        }
+                    ]
+                }, {
+                    "name": "Mama Day",
+                    "children": [{
+                            "name": "Gloria Naylor"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "1990",
+            "children": [{
+                    "name": "Middle Passage ",
+                    "children": [{
+                            "name": "Charles Johnson"
+                        }
+                    ]
+                }, {
+                    "name": "Devil in a Blue Dress ",
+                    "children": [{
+                            "name": "Walter Mosley"
+                        }
+                    ]
+                }, {
+                    "name": "Philadelphia Fire",
+                    "children": [{
+                            "name": "John Edgar Wideman"
+                        }
+                    ]
+                }, {
+                    "name": "Waiting to Exhale",
+                    "children": [{
+                            "name": "Terry McMillan"
+                        }
+                    ]
+                }, {
+                    "name": "Jazz",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "Maud Martha ",
+                    "children": [{
+                            "name": "Gwendolyn Brooks"
+                        }
+                    ]
+                }, {
+                    "name": "Parable of the Sower",
+                    "children": [{
+                            "name": "Octavia Butler"
+                        }
+                    ]
+                }, {
+                    "name":
+                    "A Lesson Before Dying ",
+                    "children": [{
+                            "name": "Ernest Gaines"
+                        }
+                    ]
+                }, {
+                    "name": "Brothers and Sisters",
+                    "children": [{
+                            "name": "Bebe Moore Campbell  "
+                        }
+                    ]
+                }, {
+                    "name": "Breath, Eyes, Memory",
+                    "children": [{
+                            "name": "Edwidge Danticat"
+                        }
+                    ]
+                }, {
+                    "name": "The White Boy Shuffle ",
+                    "children": [{
+                            "name": "Paul Beatty"
+                        }
+                    ]
+                }, {
+                    "name": "How Stella Got Her Groove Back ",
+                    "children": [{
+                            "name": "Terry McMillan"
+                        }
+                    ]
+                }, {
+                    "name": "Paradise",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "Parable of the Talents",
+                    "children": [{
+                            "name": "Octavia Butler"
+                        }
+                    ]
+                }, {
+                    "name": "The Healing",
+                    "children": [{
+                            "name": "Gayl Jones"
+                        }
+                    ]
+                }, {
+                    "name": "Caucasia",
+                    "children": [{
+                            "name": "Danzy Senna  "
+                        }
+                    ]
+                }, {
+                    "name": "Mosquito",
+                    "children": [{
+                            "name": "Gayl Jones"
+                        }
+                    ]
+                }, {
+                    "name": "The Intuitionist ",
+                    "children": [{
+                            "name": "Colson Whitehead "
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "2000",
+            "children": [{
+                    "name": "The Coldest Winter Ever",
+                    "children": [{
+                            "name": "Sister Souljah"
+                        }
+                    ]
+                }, {
+                    "name": "Erasure ",
+                    "children": [{
+                            "name": "Percival Everett "
+                        }
+                    ]
+                }, {
+                    "name": "John Henry Days ",
+                    "children": [{
+                            "name": "Colson Whitehead "
+                        }
+                    ]
+                }, {
+                    "name": "Leaving Atlanta ",
+                    "children": [{
+                            "name": "Tayari Jones"
+                        }
+                    ]
+                }, {
+                    "name": "The Known World",
+                    "children": [{
+                            "name": "Edward P. Jones"
+                        }
+                    ]
+                }, {
+                    "name": "Love",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "The Man in My Basement",
+                    "children": [{
+                            "name": "Walter Mosley"
+                        }
+                    ]
+                }, {
+                    "name": "Getting Mother's Body ",
+                    "children": [{
+                            "name": "Suzan-Lori Parks"
+                        }
+                    ]
+                }, {
+                    "name": "Apex Hides the Hurt",
+                    "children": [{
+                            "name": "Colson Whitehead "
+                        }
+                    ]
+                }, {
+                    "name": "A Mercy",
+                    "children": [{
+                            "name": "Toni Morrison"
+                        }
+                    ]
+                }, {
+                    "name": "A Father's Law",
+                    "children": [{
+                            "name": "Richard Wright"
+                        }
+                    ]
+                }, {
+                    "name": "Black Water Rising",
+                    "children": [{
+                            "name": "Attica Locke"
+                        }
+                    ]
+                }, {
+                    "name": "Sag Harbor",
+                    "children": [{
+                            "name": "Colson Whitehead "
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "name": "2010",
+            "children": [{
+                    "name": "Getting to Happy",
+                    "children": [{
+                            "name": "Terry McMillan"
+                        }
+                    ]
+                }, {
+                    "name": "Some Sing, Some Cry",
+                    "children": [{
+                            "name": "Ntozake Shange"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
