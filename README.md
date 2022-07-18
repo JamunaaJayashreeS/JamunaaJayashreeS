@@ -1,5 +1,5 @@
 # Jamunaa Jayashree
-## From Chennai,India
+## Texas, United States
 **Graduate Computer Science Student, University of Texas at Arlington** </br>
 **Software Engineer**
 
